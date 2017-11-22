@@ -19,7 +19,7 @@ gulp.task('serve', function() {
      */
     browserSync.init({
         server: settings.publicDir,
-        index: "default.html", /* default is index.html */
+        // index: "default.html", /* could be changed to "template.html" */
         browser: "google chrome"
     });
 
