@@ -1,6 +1,6 @@
 # browsersync-starterpack
 
-Simple [browsersync(https://www.browsersync.io)] starterpack with html and css filewatcher.
+Simple [browsersync](https://www.browsersync.io) starterpack with html and css filewatcher.
 ### Contains
 
  - Gulp
