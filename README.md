@@ -8,9 +8,9 @@ Simple [browsersync](https://www.browsersync.io) starterpack with html and css f
 
 ### Usage
 
- - `npm install`
- - `npm start`
- - run `gulp` or `gulp serve`
+ - `$ npm install`
+ - `$ sudo npm install gulp -g`
+ - run `$ gulp` or `$ gulp serve`
  
 ### dev dependencies
  - Node.js
