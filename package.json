@@ -9,7 +9,7 @@
   "author": "andreas santarsieri  <santarsieri@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.18.12",
+    "browser-sync": "^2.24.7",
     "gulp": "^3.9.1"
   }
 }
