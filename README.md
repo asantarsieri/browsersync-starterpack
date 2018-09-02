@@ -16,7 +16,7 @@ Simple [browsersync](https://www.browsersync.io) starterpack with html and css f
 #### dev dependencies
  - Node.js
  - npm
- - browser-sync:  ^2.18.12
+ - browser-sync:  ^2.24.7
  - gulp: ^3.9.1
 
 ### Troubleshooting
